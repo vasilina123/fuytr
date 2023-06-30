@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://icons.getbootstrap.com/"
+</head>
+<body>
+    <a href="page1.html"target="_blank">ссылка на page1</a>
+    <form>
+        <div>
+            <label id="field1"> Поле для текста </label>
+        <input class="form-control form-control-lg"  type="text" id="field1">
+        <ul class="nav justify-content-center"></ul>
+        </div>
+        <div>
+            <label id="field2">Чек=бокс</label> 
+            <input type="checkbox" id="field2">
+            <ul class="nav justify-content-center"></ul>
+        </div>
+        <div>
+            <label>Пароль</label> 
+        <input class="form-control form-control-sm" type="password"> 
+        <ul class="nav justify-content-center"></ul>  
+            </div>
+    <div>
+        <p><b>Расскажите что-нибудь о себе (необязательно):</b></p>
+            <textarea атрибуты>
+                    
+        
+                    
+            </textarea>
+            <ul class="nav justify-content-center"></ul> 
+    </div>
+    <div>
+        <p class="fs-2"></p>
+        <button  type="button" <p class="btn" "fs-2">Отправить</button>:3</p>
+    </div>
+    
+    </form>
+</body>
+</html>
